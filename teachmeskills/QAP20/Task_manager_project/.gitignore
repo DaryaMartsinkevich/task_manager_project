@@ -1,0 +1,47 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*$py.class
+
+# Virtual Environment
+venv/
+env/
+.env/
+
+# Pytest
+.pytest_cache/
+.cache
+*.cover
+*.py,cover
+htmlcov/
+.tox/
+
+# Coverage reports
+.coverage
+coverage.xml
+
+# Logs
+*.log
+
+# OS-specific files
+.DS_Store
+
+# PyCharm
+.idea/
+*.iml
+*.iws
+
+# Distribution / Packaging
+build/
+dist/
+*.egg-info/
+.eggs/
+*.manifest
+*.spec
+
+# Temporary files
+*.tmp
+*.bak
+*.swp
+*~
